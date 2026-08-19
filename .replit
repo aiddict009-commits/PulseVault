@@ -1,4 +1,7 @@
+modules = ["python-3.11"]
 [userenv]
 
 [userenv.shared]
 ADMIN_ID = "0"
+
+[nix]
