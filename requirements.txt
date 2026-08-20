@@ -1,0 +1,3 @@
+flask
+upstash-redis
+pyTelegramBotAPI
