@@ -35,4 +35,4 @@ def telegram():
 
 @app.route("/", methods=["GET"])
 def home():
-    return "PulseVault Permanent - OK"
+    return "PulseVault Permanent
