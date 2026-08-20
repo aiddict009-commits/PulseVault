@@ -2,6 +2,6 @@ modules = ["python-3.11"]
 [userenv]
 
 [userenv.shared]
-ADMIN_ID = "0"
+ADMIN_ID = "8237235568"
 
 [nix]
